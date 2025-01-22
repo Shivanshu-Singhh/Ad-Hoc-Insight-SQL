@@ -8,3 +8,5 @@ Key Findings & Recommendations: Key Findings: Identified crucial metrics such as
 Recommendations: Proposed strategies to enhance production efficiency through initiatives like memberships, gift vouchers, bundled offers, student discounts, and other promotions aimed at boosting customer engagement and sales.
 
 This summary encapsulates the technical skills applied, tools utilized, and strategic insights derived, showcasing a comprehensive approach to tackling complex data challenges in a business context.
+
+Video Presentation Link :- https://www.linkedin.com/posts/shivanshusingh09_datafam-connections-dataanalytics-activity-7287704417213005824-lVZ1?utm_source=share&utm_medium=member_desktop
